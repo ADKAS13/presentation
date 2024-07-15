@@ -44047,7 +44047,7 @@ A.l9.prototype={
 j(a,b){if(b==null)return!1
 return this.a===b.a}}
 A.Kv.prototype={
-K(a){return new A.z_(A.ag(["/",new A.a6A(),"/1",new A.a6B(),"/2",new A.a6C(),"/3",new A.a6G(),"/4",new A.a6H(),"/5",new A.a6I(),"/6",new A.a6J(),"/7",new A.a6K(),"/8",new A.a6L(),"/9",new A.a6M(),"/10",new A.a6N(),"/11",new A.a6D(),"/final",new A.a6E(),"/thankyou",new A.a6F()],t.N,t.Ab),"./","Bachelor's Project Quiz",null)}}
+K(a){return new A.z_(A.ag(["/",new A.a6A(),"/1",new A.a6B(),"/2",new A.a6C(),"/3",new A.a6G(),"/4",new A.a6H(),"/5",new A.a6I(),"/6",new A.a6J(),"/7",new A.a6K(),"/8",new A.a6L(),"/9",new A.a6M(),"/10",new A.a6N(),"/11",new A.a6D(),"/final",new A.a6E(),"/thankyou",new A.a6F()],t.N,t.Ab),"./","Bachelor's Project Quiz Questions",null)}}
 A.a6A.prototype={
 $1(a){return B.Io},
 $S:328}

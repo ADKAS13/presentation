@@ -100,7 +100,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       initialRoute: './',
-      title: "Bachelor's Project Quiz",
+      title: "Bachelor's Project Quiz Questions",
       routes: {
         '/': (context) => const MainPage(),
         '/1': (context) => const Question1(),
