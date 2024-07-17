@@ -2,6 +2,7 @@
 import 'dart:html' as webFile;
 import 'package:bachelors_project/pages/question10.dart';
 import 'package:bachelors_project/pages/question11.dart';
+import 'package:bachelors_project/pages/question12.dart';
 import 'package:bachelors_project/pages/question8.dart';
 import 'package:bachelors_project/pages/question9.dart';
 import 'package:file_picker/file_picker.dart' as webPicker;
@@ -17,6 +18,7 @@ import './pages/pages.dart';
 
 // var ID = Random().nextInt(2147483647);
 List<TextEditingController> controllers = [
+  TextEditingController(),
   TextEditingController(),
   TextEditingController(),
   TextEditingController(),
@@ -114,6 +116,7 @@ class MyApp extends StatelessWidget {
         '/9': (context) => const Question9(),
         '/10': (context) => const Question10(),
         '/11': (context) => const Question11(),
+        '/12': (context) => const Question12(),
         '/final': (context) => const FinalPage(),
         '/thankyou': (context) => const ThankYouPage(),
       },

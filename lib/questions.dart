@@ -458,12 +458,12 @@ Peter: 987654321
       questionText: pointerAdvancedC,
       isMultipleChoice: false,
       answer: '''10 4 6 8 2 '''),
-  // Question(
-  //     questionText: memoryManagementC,
-  //     isMultipleChoice: false,
-  //     answer: '''0 2 4 6 8 15 18 21'''),
   Question(
-      questionText: arraysC, isMultipleChoice: false, answer: '4 0 5 4 10 1 7 ')
+      questionText: arraysC, isMultipleChoice: false, answer: '4 0 5 4 10 1 7 '),
+  Question(
+      questionText: memoryManagementC,
+      isMultipleChoice: false,
+      answer: '''0 2 4 6 8 15 18 21'''),
 ];
 
 var dynamicQuestions = [

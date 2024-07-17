@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 
 import '../pagelayout.dart';
 
-class Question11 extends StatelessWidget {
-  const Question11({super.key});
+class Question12 extends StatelessWidget {
+  const Question12({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -18,10 +18,10 @@ class Question11 extends StatelessWidget {
           child: Column(
             children: [
               PageLayout(
-                controller: controllers[10],
-                question: questions[10],
-                questionNumber: 11,
-                nextPage: '/12',
+                controller: controllers[11],
+                question: questions[11],
+                questionNumber: 12,
+                nextPage: '/final',
               ),
             ],
           ),
